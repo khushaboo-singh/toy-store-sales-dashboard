@@ -19,6 +19,7 @@ This project provides an interactive and insightful Power BI dashboard to analyz
 ## 📁 File Included
 
 - `TOY_STORE_SALE_ANALYSIS.pbix` – Power BI Dashboard File
+- SQL-Quer_Toy_sales
 - sales.csv
 - inventory.csv
 - product.csv
